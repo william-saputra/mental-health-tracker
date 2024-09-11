@@ -23,4 +23,5 @@ class mainTest(TestCase):
           feelings = "senang sih, cuman tadi baju aku basah kena hujan :(",
           mood_intensity = 8,
         )
-        self.assertTrue(mood.is_mood_strong)
+        self.assertTrue(mood.is_mood_strong) #test
+        
